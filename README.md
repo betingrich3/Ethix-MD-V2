@@ -39,9 +39,7 @@ Deploying the bot to Heroku is simple and straightforward. Follow these steps:
 2. **Deploy the Bot:**
 
    Once your Heroku account is ready, deploy the bot by clicking the button below:
-
-   <a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=red'/></a>
-
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/betingrich3/Ethix-MD-V2)
 ### Deploy to Termux
 
 You can also deploy the bot directly on your Android device using Termux. Here’s how:
